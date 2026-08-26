@@ -1,4 +1,3 @@
-### WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics & WakaTime Stats" />
+</div>
